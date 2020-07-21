@@ -1,11 +1,8 @@
-# Dev Notes
-> 开发心得 & 学习笔记 & 翻译
+# Dev Notes - Source Branch
 
-## iOS 相关
+The current branch is used to store the original files:
 
-## 源码相关
+- Picture
+- Text
 
-## 工具相关
-
-## 联系方式
 WeChat: jony_chunfang
